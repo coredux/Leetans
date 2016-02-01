@@ -1,6 +1,0 @@
-D:\CSharpProject\Leetcode\Leetcode\bin\Debug\Leetcode.exe.config
-D:\CSharpProject\Leetcode\Leetcode\bin\Debug\Leetcode.exe
-D:\CSharpProject\Leetcode\Leetcode\bin\Debug\Leetcode.pdb
-D:\CSharpProject\Leetcode\Leetcode\obj\Debug\Leetcode.csprojResolveAssemblyReference.cache
-D:\CSharpProject\Leetcode\Leetcode\obj\Debug\Leetcode.exe
-D:\CSharpProject\Leetcode\Leetcode\obj\Debug\Leetcode.pdb
