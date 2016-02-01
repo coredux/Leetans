@@ -25,5 +25,8 @@ namespace LeetCode {
             return num;
         }
 
+		public int doAddDigitsFollowUp( int num ) {
+			return return ( ( num - 1 ) % 9 ) + 1;
+		}
     }
 }
