@@ -7,6 +7,8 @@ My codes for leetcode
 
 283 Move Zeroes
 
+169 Majority Element
+
 #Follow up
 
 242 Valid Anagram
