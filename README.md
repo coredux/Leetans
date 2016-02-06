@@ -3,4 +3,4 @@ My codes for leetcode
 
 #to optimize
 
-209 Bulls and Cows
+299 Bulls and Cows
