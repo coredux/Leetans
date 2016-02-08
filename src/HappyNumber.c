@@ -1,36 +1,51 @@
 //
-// Created by seanr on 2016/2/7.
+// Created by seanr on 2016/2/8.
 //
 
-#include <stddef.h>
-#include <stdlib.h>
-
-struct ListNode {
-    int val;
-    struct ListNode* next;
-};
+#include <stdbool.h>
+#include <string.h>
+#include <stdio.h>
 
 // submit the codes below
 
-struct ListNode* deleteDuplicates(struct ListNode* head) {
+#define MAX_HAPPY_SUM 1000
 
-    struct ListNode* now = head;
-    while( now != NULL && now->next != NULL ) {
-        if( now->val == now->next->val ) {
-            struct ListNode* temp = now->next;
-            now->next = now->next->next;
-            free( temp );
-        } else {
-            now = now->next;
-        }
+int getHappySum( int n ) {
+
+    int ret = 0;
+    while( n != 0 ) {
+        int lastBit = n - ( n / 10 ) * 10;
+        n = n / 10;
+        ret += lastBit * lastBit;
     }
-    return head;
+    return ret;
 
 }
+
+bool isHappy(int n) {
+
+    char showUp[ MAX_HAPPY_SUM ];
+    memset( showUp , 0 , sizeof(char) * MAX_HAPPY_SUM );
+
+    while( n != 1 ) {
+        n = getHappySum( n );
+        if( showUp[ n ] > 0 ) {
+            return false;
+        } else {
+            showUp[ n ] += 1;
+        }
+
+    }
+
+    return true;
+
+}
+
 
 // submit the codes above
 
 int main() {
+    printf("%d\n" , isHappy(19));
     return 0;
 }
 
