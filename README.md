@@ -15,4 +15,6 @@ My codes for leetcode
 
 #Worth thinking
 
+26. Remove Duplicates from Sorted Array
+
 263. Ugly Number

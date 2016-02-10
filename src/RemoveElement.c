@@ -21,6 +21,7 @@ int removeElement(int* nums, int numsSize, int val) {
                 if( *( nums + j ) != val ) {
                     isFound = true;
                     foundPlace =  j ;
+					break;
                 }
             }
             if( !isFound ) {
