@@ -17,4 +17,6 @@ My codes for leetcode
 
 26. Remove Duplicates from Sorted Array
 
+172. Factorial Trailing Zeroes
+
 263. Ugly Number
