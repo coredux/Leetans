@@ -23,4 +23,6 @@ My codes for leetcode
 
 172. Factorial Trailing Zeroes
 
+219. Contains Duplicate II
+
 263. Ugly Number
