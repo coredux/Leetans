@@ -23,6 +23,8 @@ My codes for leetcode
 
 172. Factorial Trailing Zeroes
 
+190. Reverse Bits ( and need to be optimized )
+
 219. Contains Duplicate II
 
 263. Ugly Number
