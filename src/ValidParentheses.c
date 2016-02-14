@@ -41,6 +41,7 @@ bool isValid(char* s) {
             }
         }
     }
+	free( pBuff );
     if( buffRear > 0 ) {
         return false;
     }
