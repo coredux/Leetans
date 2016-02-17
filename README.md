@@ -19,6 +19,8 @@ My codes for leetcode
 
 26. Remove Duplicates from Sorted Array
 
+28. Implement strStr() (KMP)
+
 88. Merge Sorted Array
 
 172. Factorial Trailing Zeroes
