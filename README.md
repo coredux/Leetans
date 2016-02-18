@@ -3,6 +3,8 @@ My codes for leetcode
 
 #to optimize
 
+6. ZigZag Conversion
+
 204. Count Primes ( not sure )
 
 299 Bulls and Cows
