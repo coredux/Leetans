@@ -7,11 +7,11 @@ My codes for leetcode
 
 204. Count Primes ( not sure )
 
-299 Bulls and Cows
+299. Bulls and Cows
 
-283 Move Zeroes
+283. Move Zeroes
 
-169 Majority Element
+169. Majority Element
 
 #Follow up
 
