@@ -15,7 +15,7 @@ My codes for leetcode
 
 #Follow up
 
-242 Valid Anagram
+242. Valid Anagram
 
 #Worth thinking
 
