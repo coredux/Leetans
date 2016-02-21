@@ -3,6 +3,8 @@ My codes for leetcode
 
 #to optimize
 
+1. Two Sum
+
 6. ZigZag Conversion
 
 204. Count Primes ( not sure )
