@@ -38,3 +38,5 @@ My codes for leetcode
 219. Contains Duplicate II
 
 263. Ugly Number
+
+319. Bulb Switcher
