@@ -7,13 +7,15 @@ My codes for leetcode
 
 6. ZigZag Conversion
 
+169. Majority Element
+
 204. Count Primes ( not sure )
 
-299. Bulls and Cows
+237. H-Index
 
 283. Move Zeroes
 
-169. Majority Element
+299. Bulls and Cows
 
 #Follow up
 
